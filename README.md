@@ -8,7 +8,7 @@
 ## 翻译计划
 
 
-* 注册 github.com 帐号并建立 [项目 github 仓库](https://github.com/HackTec/HT-zh-books-translation)
+* 注册 github.com 帐号并建立 [项目 github 仓库](https://github.com/HackTec/)
 * 召集小伙伴:@ibrother、@ChanZou、@ieted、@kingname、@Mangosteen-Yang
 * 建立微信协作群，及时沟通与交流翻译过程中遇到的各类问题
 
