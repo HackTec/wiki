@@ -4,7 +4,7 @@
 * [翻译计划](#plan)
 * [翻译过程](#procedure)
 
-<span id="pan"></span>
+<span id="plan"></span>
 ## 翻译计划
 
 
