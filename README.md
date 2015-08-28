@@ -1,10 +1,10 @@
 
 # 英文书籍翻译小组用户手册
 
-* [翻译计划](#plan)
-* [翻译过程](#procedure)
+* [翻译计划](#翻译计划)
+* [翻译过程](#翻译过程)
 
-<span id="plan"></span>
+
 ## 翻译计划
 
 
@@ -20,7 +20,7 @@
 
 * 理清一些基本的翻译约定
 
-<span id="procedure"></span>
+
 ## 翻译过程
 
 * 注册并登录 github fork [代码仓库](https://github.com/HackTec/HT-zh-books-translation)
